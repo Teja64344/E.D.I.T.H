@@ -1,0 +1,5 @@
+numpy
+pandas
+gtts
+openai
+dotenv
