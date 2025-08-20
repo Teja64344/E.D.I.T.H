@@ -1,5 +1,4 @@
-numpy
-pandas
-gtts
-openai
-dotenv
+faster-whisper==0.5.1
+TTS==0.13.0
+google-generativeai==0.4.4
+python-dotenv==1.0.0
